@@ -1,0 +1,1 @@
+cp build/IdeaPlaceExPy.cpython-37m-x86_64-linux-gnu.so /uac/gds/pxu22/.local/lib/python3.7/site-packages/
