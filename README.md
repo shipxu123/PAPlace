@@ -8,6 +8,8 @@ This repository is a fork of [IdeaPlaceEx](https://github.com/krzhu/IdeaPlaceEx/
 
 This is the code implementation for the paper **PAPlace: Performance-Driven Differentiable Analog Placement**.
 
+The codes of the network architecutre are available at [PostsimNet](https://github.com/shipxu123/PostsimNet.git).
+
 # Install
 
 Some components depend on external libraries, such as 
